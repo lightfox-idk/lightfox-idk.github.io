@@ -3,6 +3,7 @@
 Im rewriting this because the old code was too bad.
 
 ## Goal
+
 ---
 
-- [x] Do a simple but
+- [ ] Do a simple website just to start.
